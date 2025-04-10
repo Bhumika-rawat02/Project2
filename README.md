@@ -1,6 +1,6 @@
 # Introduction
 
-This is first local git file.
+This is first local git file
 
 # Creator
 
